@@ -1,0 +1,14 @@
+{
+  "arenaSet": false,
+  "arenaDimension": "minecraft:overworld",
+  "arenaX": 0,
+  "arenaY": 0,
+  "arenaZ": 0,
+  "arenaFacing": "south",
+  "buttonSet": false,
+  "buttonDimension": "minecraft:overworld",
+  "buttonX": 0,
+  "buttonY": 0,
+  "buttonZ": 0,
+  "buttonAuto": false
+}

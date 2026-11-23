@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "papa_caliente",
+	"version": "${version}",
+	"name": "Papa Caliente",
+	"description": "Minijuego de memoria para 2 jugadores: entierra Papas Bomba, excava por turnos y no explotes.",
+	"authors": ["Shaw"],
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.shaw.papacaliente.PapaCaliente"],
+		"client": ["com.shaw.papacaliente.client.PapaCalienteClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

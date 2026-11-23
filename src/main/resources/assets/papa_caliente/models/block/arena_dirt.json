@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "papa_caliente:block/arena_dirt_top",
+    "side": "papa_caliente:block/arena_dirt",
+    "bottom": "papa_caliente:block/arena_dirt",
+    "particle": "papa_caliente:block/arena_dirt"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "papa_caliente:block/arena_dirt",
+        "y": 0
+      },
+      {
+        "model": "papa_caliente:block/arena_dirt",
+        "y": 90
+      },
+      {
+        "model": "papa_caliente:block/arena_dirt",
+        "y": 180
+      },
+      {
+        "model": "papa_caliente:block/arena_dirt",
+        "y": 270
+      }
+    ]
+  }
+}
